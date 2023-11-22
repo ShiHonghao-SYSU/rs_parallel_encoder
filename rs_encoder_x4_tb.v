@@ -1,5 +1,5 @@
 // Verilog Test Bench for design : rs_encoder_x8
-// 
+// shi honghao Nov. 21, 2023.
 
 `timescale 100 ps/ 100 ps
 module rs_encoder_x4_tb();
