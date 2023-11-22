@@ -1,4 +1,5 @@
-
+// rs_encoder_x4 parallel for RS(255, 239) code.
+// shi honghao Nov. 21, 2023.
 
 `timescale 100ps/100ps
 
