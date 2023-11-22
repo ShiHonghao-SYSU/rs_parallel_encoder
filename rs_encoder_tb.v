@@ -1,5 +1,5 @@
 // Verilog Test Bench for design : rs_encoder
-// 
+// shi honghao Nov. 21, 2023.
 
 `timescale 100 ps/ 100 ps
 
